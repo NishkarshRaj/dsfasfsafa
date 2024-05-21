@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "dsfasfsafa"
+  description: "lorem ipsum"
+  annotations:
+    github.com/project-slug: NishkarshRaj/dsfasfsafa
+spec:
+  type: service
+  lifecycle: experimental
+  owner: "group:default/cpto"
